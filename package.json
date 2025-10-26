@@ -6,7 +6,7 @@
   "dependencies": {
     "@okta/oidc-middleware": "5.4.0",
     "consolidate": "^0.15.1",
-    "dotenv": "^17.2.2",
+    "dotenv": "^17.2.3",
     "express": "^4.21.2",
     "express-openid-connect": "^2.18.0",
     "express-session": "^1.18.1",
